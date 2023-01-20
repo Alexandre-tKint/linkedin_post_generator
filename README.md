@@ -33,7 +33,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Copy code
 
 4. Input your desired post content and generate your post
 
